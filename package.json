@@ -1,0 +1,25 @@
+{
+  "name": "steambot",
+  "version": "0.0.1",
+  "description": "SteamBot Sorabot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmdanBelen/Sorabot.git"
+  },
+  "keywords": [
+    "Sorabot",
+    "steam",
+    "community",
+    "bot"
+  ],
+  "author": "Cedric Hoelzl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmdanBelen/Sorabot/issues"
+  },
+  "homepage": "https://github.com/AmdanBelen/Sorabot#readme"
+}
